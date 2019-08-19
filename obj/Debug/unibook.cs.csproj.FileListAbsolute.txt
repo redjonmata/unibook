@@ -1,0 +1,19 @@
+C:\app\unibook\unibook\bin\unibook.dll.config
+C:\app\unibook\unibook\bin\unibook.dll
+C:\app\unibook\unibook\bin\unibook.pdb
+C:\app\unibook\unibook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\app\unibook\unibook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\app\unibook\unibook\obj\Debug\unibook.cs.csproj.CoreCompileInputs.cache
+C:\app\unibook\unibook\obj\Debug\unibook.dll
+C:\app\unibook\unibook\obj\Debug\unibook.pdb
+C:\app\unibook\unibook\obj\Debug\unibook.cs.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\school stuff\unibook\unibook\bin\unibook.dll.config
+C:\Users\user\Desktop\school stuff\unibook\unibook\bin\unibook.dll
+C:\Users\user\Desktop\school stuff\unibook\unibook\bin\unibook.pdb
+C:\Users\user\Desktop\school stuff\unibook\unibook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\school stuff\unibook\unibook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\school stuff\unibook\unibook\obj\Debug\unibook.cs.csprojAssemblyReference.cache
+C:\Users\user\Desktop\school stuff\unibook\unibook\obj\Debug\unibook.cs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\school stuff\unibook\unibook\obj\Debug\unibook.cs.csproj.CopyComplete
+C:\Users\user\Desktop\school stuff\unibook\unibook\obj\Debug\unibook.dll
+C:\Users\user\Desktop\school stuff\unibook\unibook\obj\Debug\unibook.pdb
